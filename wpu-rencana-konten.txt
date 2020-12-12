@@ -2,7 +2,14 @@ RENCANA CONTENT M PEDIA
 
 - LEVEL MEMBER
 - PHP FRAMEWORK (syntak yang baru, dan framework laravel)
+
  - ract
  - angular
 - INTERVIEW
 - laravel
+ - view
+ - react
+- INTERVIEW
+- fundamental data structure
+- python
+
