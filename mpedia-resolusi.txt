@@ -2,3 +2,5 @@ Mpedia resolusi
 - Konsisten untuk membuat sistem api mutasi dan api whatsapp
 - membuat platflorm untuk pembelian sosial media marketing dan E voucher PPOB
 -Membuat forum diskusi/ discuss komunitas.
+- membuat merch shop
+- kolaborasi dengan lebih banyak experts
