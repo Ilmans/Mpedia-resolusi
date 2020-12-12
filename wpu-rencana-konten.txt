@@ -1,5 +1,5 @@
 RENCANA CONTENT M PEDIA
 
 - LEVEL MEMBER
-- PHP FRAMEWORK
+- PHP FRAMEWORK (syntak yang baru, dan framework laravel)
 - INTERVIEW
